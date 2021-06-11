@@ -21,3 +21,9 @@ img {
     filter: none;
     -webkit-filter: none;
   }
+
+p {
+  font-style: italic;
+  font-size: 2em;
+  color: #9dbed3;
+}
