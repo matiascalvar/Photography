@@ -27,3 +27,11 @@ p {
   font-size: 2em;
   color: #9dbed3;
 }
+
+p:hover {
+  color: #457b9d;
+}
+
+footer :hover {
+  color: #457b9d !important;
+}
