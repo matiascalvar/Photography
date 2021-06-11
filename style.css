@@ -1,0 +1,23 @@
+.display-1 {
+    color: #457b9d;
+    font-weight: 500;
+
+}
+.display-3 {
+    color: #9dbed3;
+    font-weight: 500;
+    margin-bottom: 1em;
+}
+
+img {
+    filter: url(filters.svg#grayscale);
+    /* Firefox 3.5+ */
+    filter: gray;
+    /* IE6-9 */
+    -webkit-filter: grayscale(1);
+    /* Google Chrome & Safari 6+ */
+  }
+  img:hover {
+    filter: none;
+    -webkit-filter: none;
+  }
