@@ -39,4 +39,5 @@ footer :hover {
 a {
   text-decoration: none;
   color:#457b9d;
+  text-decoration-line: none;
 }
