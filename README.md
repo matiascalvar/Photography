@@ -1,2 +1,3 @@
-# Photograpy
-Roma
+# Photography
+
+Photography site using bootstrap.
